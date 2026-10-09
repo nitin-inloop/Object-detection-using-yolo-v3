@@ -1,0 +1,2 @@
+# Object-detection-using-yolo-v3
+Yolo is an algorithm that uses convolutional neural networks for object detection. So what's great about object detection? In comparison to recognition algorithms, a detection algorithm does not only predict class labels, but detects locations of objects as well.
